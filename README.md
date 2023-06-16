@@ -77,10 +77,22 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,discord,html,java,js,mysql,flask,postman,py,vscode,heroku,sqlite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,discord,html,java,js,mysql,flask,postman,py,vscode,sqlite&perline=14" />
   </a>
 </p>
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Aprendendo</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=heroku,django,flutter,nextjs,nodejs,react&perline=14" />
+  </a>
+</p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
