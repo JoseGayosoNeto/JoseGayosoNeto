@@ -24,19 +24,19 @@
 <!--Intro start-->
 <h2 align="left"> About me!<h3>
   
-- ☁ Estudante de Ciência da Computação na Universidade Federal do Piauí
+- ☁ Computer Science student at the Federal University of Piauí
 
-- 🌎 Morando em Teresina-PI, Brasil
+- 🌎 Living in Teresina - Piauí, Brazil
 
-- 🛠 Desenvolvedor Júnior com foco em Python e JavaScript
+- 🛠 Junior Developer focused on Python and JavaScript
 
-- 📝 Alto interesse por Desenvolvimento Web full-stack, Análise e Ciência de Dados
+- 📝 I've been interest in full-stack Web Development, Analytics and Data Science
   
-- 👨‍💻 Em busca de estágios na área de TI
+- 👨‍💻 Looking for internships in Information Technology (IT)
   
-- 🔋 Sempre em busca de conhecimento
+- 🔋 Always looking for knowledge
 
-- 📫 Sinta-se livre em me contactar **josegayosoneto@outlook.com.br**
+- 📫 Feel free to contact me: **josegayosoneto@outlook.com.br**
   
 <!--Intro end-->
 
@@ -71,20 +71,20 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que tenho conhecimento 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,discord,html,java,js,mysql,flask,postman,py,vscode,sqlite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,html,java,js,mysql,flask,postman,py,vscode,sqlite&perline=14" />
   </a>
 </p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Aprendendo 📚</h2></summary>
+    <summary><h2 style="display: inline-block">Learning 📚</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -94,11 +94,22 @@
   </a>
 </p>
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <details>
+    <summary><h2 style="display: inline-block">Certifications 📄</h2></summary>
+      <li align="center" style="display: inline-block"><h5>Seminário Inteligência Computacional na Saúde - Perspectivas e Aplicações</h5></li>
+      <li align="center" style="display: inline-block"><h5>Curso de Extensão - Introdução à Programação com Python</h5></li>
+  </ul>
+    </details>
+</div>
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Minhas Redes Sociais</h2></summary>
+    <summary><h2 style="display: inline-block">My Social Media</h2></summary>
   </ul>
 </div>
 
