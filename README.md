@@ -48,11 +48,11 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
+
   
-<!--   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JoseGayosoNeto&theme=dark&show_icons=true&count_private=true" /> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseGayosoNeto&show_icons=true&theme=dark&count_private=true" />
   <br></br>
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=JoseGayosoNeto&theme=dark&background=000000)](https://git.io/streak-stats)" /> 
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=JoseGayosoNeto&theme=dark&background=000000&mode=weekly)](https://git.io/streak-stats)" /> 
 </td>
 
 <td width="50%" align="center">
