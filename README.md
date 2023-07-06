@@ -100,7 +100,7 @@
   <ul align="center">
     <details>
     <summary><h2 style="display: inline-block">Certifications 📄</h2></summary>
-      <li align="center" style="display: inline-block"><h5>Seminário Inteligência Computacional na Saúde - Perspectivas e Aplicações</h5></li>
+      <li align="center" style="display: inline-block"><h5>Curso Udemy - Desenvolvimento Web com Flask [2023]</h5></li>
       <li align="center" style="display: inline-block"><h5>Curso de Extensão - Introdução à Programação com Python</h5></li>
   </ul>
     </details>
