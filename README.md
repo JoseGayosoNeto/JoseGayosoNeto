@@ -102,6 +102,7 @@
     <summary><h2 style="display: inline-block">Certifications 📄</h2></summary>
       <li align="center" style="display: inline-block"><h5>Curso Udemy - Desenvolvimento Web com Flask [2023]</h5></li>
       <li align="center" style="display: inline-block"><h5>Curso de Extensão - Introdução à Programação com Python</h5></li>
+      <li align="center" style="display: inline-block"><h5>EF SET Certificate - C1 Advanced</h5></li>
   </ul>
     </details>
 </div>
