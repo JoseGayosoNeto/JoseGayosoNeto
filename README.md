@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 align="center">Hi<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm José Gayoso Neto</h1></summary>
+    <summary><h1 align="center">Hi<img width="35" src="https://github.com/JoseGayosoNeto/JoseGayosoNeto/blob/main/resources/imgs/waving.gif">, I'm José Gayoso Neto</h1></summary>
   </ul>
 </div>
 
@@ -31,8 +31,10 @@
 - 🛠 Junior Developer focused on Python and JavaScript
 
 - 📝 I've been interest in full-stack Web Development, Analytics and Data Science
+
+- 💻 Back-end addicted
   
-- 👨‍💻 Looking for internships in Information Technology (IT)
+- 👨‍💻 Looking for opportunities in Information Technology (IT)
   
 - 🔋 Always looking for knowledge
 
