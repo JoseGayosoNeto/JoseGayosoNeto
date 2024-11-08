@@ -54,7 +54,7 @@
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseGayosoNeto&show_icons=true&theme=dark&count_private=true" />
   <br></br>
-  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=JoseGayosoNeto&theme=dark&background=000000&mode=weekly)](https://git.io/streak-stats)" /> 
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-blue-ten.vercel.app?user=JoseGayosoNeto&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </td>
 
 <td width="50%" align="center">
@@ -80,7 +80,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,html,java,js,mysql,flask,postman,py,vscode,sqlite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,mysql,postgres,sqlite,flask,django,fastapi,postman,py,vscode,aws&perline=14" />
   </a>
 </p>
 
@@ -93,7 +93,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=heroku,django,flutter,nextjs,nodejs,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,flutter,nextjs,nodejs,react&perline=14" />
   </a>
 </p>
 
