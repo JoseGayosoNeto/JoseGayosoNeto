@@ -28,9 +28,9 @@
 
 - 🌎 Living in Teresina - Piauí, Brazil
 
-- 🛠 Junior Developer focused on Python and JavaScript
+- 🛠 Junior Developer focused on Python
 
-- 📝 I've been interest in full-stack Web Development, Analytics and Data Science
+- 📝 I've been interest in Web Development, especially Back-end Web Development
 
 - 💻 Back-end addicted
   
@@ -38,7 +38,7 @@
   
 - 🔋 Always looking for knowledge
 
-- 📫 Feel free to contact me: **josegayosoneto@outlook.com.br**
+- 📫 Feel free to contact me: **josegayosonetodev@gmail.com**
   
 <!--Intro end-->
 
