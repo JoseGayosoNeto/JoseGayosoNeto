@@ -80,7 +80,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,mysql,postgres,sqlite,flask,django,fastapi,postman,py,vscode,aws&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,mysql,postgres,sqlite,flask,django,fastapi,postman,py,vscode,aws,docker&perline=14" />
   </a>
 </p>
 
@@ -96,18 +96,6 @@
     <img src="https://skillicons.dev/icons?i=js,flutter,nextjs,nodejs,react&perline=14" />
   </a>
 </p>
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <details>
-    <summary><h2 style="display: inline-block">Certifications 📄</h2></summary>
-      <li align="center" style="display: inline-block"><h5>Curso Udemy - Desenvolvimento Web com Flask [2023]</h5></li>
-      <li align="center" style="display: inline-block"><h5>Curso de Extensão - Introdução à Programação com Python</h5></li>
-      <li align="center" style="display: inline-block"><h5>EF SET Certificate - C1 Advanced</h5></li>
-  </ul>
-    </details>
-</div>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -135,6 +123,9 @@
       <a href="https://wa.me/+5586998520134" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
+      <a href="https://www.linkedin.com/in/josegayosoneto/" target="blank"><img align="center"
+         src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png"
+         alt="linkedin" height="50" width="50"/></a>
 <!--       <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="azzar" height="30"/></a> -->
